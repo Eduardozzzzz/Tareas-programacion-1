@@ -1,3 +1,15 @@
+/*
+Ejercicio sobre arreglos
+Este codigo hace lo siguiente:
+1. Crear un arreglo de notas (ingresado por el usuario)
+2. Inicializar el arreglos con las 5 notas (ingresado por el usuario)
+3. Calcular la nota definitiva
+3. Obtener la nota mayor
+4. Obtener la nota menor
+5. Ordenar el arreglo con burbuja
+6. Mostrar el resumen de notas (en este codigo se muestra cada resultado como un messagedialog)
+7. Agregar una funcionalidad distinta. (en este caso es buscar nota y saber la nota mas repetida)
+*/
 import javax.swing.JOptionPane;
 
 public class Arreglo_funcional{
@@ -111,4 +123,5 @@ public class Arreglo_funcional{
         }
     }
 }
+
 }
